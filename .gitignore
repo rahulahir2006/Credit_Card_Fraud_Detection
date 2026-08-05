@@ -8,6 +8,7 @@ __pycache__/
 artifacts/
 data/
 *.csv
+Myenv/
 
 # Distribution / packaging
 .Python
